@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Chelonia Ceramics'
+    title: 'TinaCMS Bug 864'
   },
   plugins: [
     'gatsby-plugin-eslint',
